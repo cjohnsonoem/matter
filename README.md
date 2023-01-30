@@ -57,6 +57,7 @@ Must logout and log back in
 
 # IDF Setup
 Clone ESP-IDF v4.4.3 release, move to desired development folder first!
+
     git clone -b v4.4.3 --recursive https://github.com/espressif/esp-idf.git
     cd esp-idf
     ./install.sh
